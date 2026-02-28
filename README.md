@@ -2,22 +2,14 @@
 
 I’m Shan — a self-taught backend-focused developer building scalable APIs and full-stack web applications using Django, FastAPI, and React.
 
-- 🔭 I’m currently working on ...
-  
-  I’m currently developing an enterprise IMS platform with 100+ permissions and modular architecture (QMS, OHS, and extended systems), along with a building rental management solution.
+- 🔭 I’m currently working on  an enterprise IMS platform with 100+ permissions and modular architecture (QMS, OHS, and extended systems), along with a building rental management solution.
   On the side, I’m building a personal microservices-based video streaming platform.
   
-- 🌱 I’m currently learning ...
-  
-  I’m currently exploring Machine Learning and Data Science, strengthening my understanding of data analysis, model building, and core ML concepts.
+- 🌱 I’m currently learning  Machine Learning and Data Science, strengthening my understanding of data analysis, model building, and core ML concepts.
 
-- 💬 Ask me about ...
+- 💬 Ask me about Django, FastAPI, REST APIs, authentication systems, WebSockets, Celery, microservices architecture, and backend scalability.
   
-  Django, FastAPI, REST APIs, authentication systems, WebSockets, Celery, microservices architecture, and backend scalability.
-  
-- ⚡ Fun fact: ...
-  
-  I enjoy breaking complex backend systems into clean, scalable architectures.
+- ⚡ Fun fact: I enjoy breaking complex backend systems into clean, scalable architectures.
 
 - 📫 How to reach me: ...
  
