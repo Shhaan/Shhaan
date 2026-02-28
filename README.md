@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Shan — a backend-focused developer with 1.5+ years of experience building scalable APIs and full-stack web applications using Django, FastAPI, and React.
+I’m Shan — a backend-focused developer with 1.8+ years of experience building scalable APIs and full-stack web applications using Django, FastAPI, and React.
 
 - 🔭 I’m currently working on  an enterprise IMS platform with 100+ permissions and modular architecture (QMS, OHS, and extended systems), along with a building rental management solution.
   On the side, I’m building a personal microservices-based video streaming platform.
