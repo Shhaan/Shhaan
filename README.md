@@ -9,7 +9,7 @@ I’m Shan — a self-taught backend-focused developer building scalable APIs an
 
 - 💬 Ask me about Django, FastAPI, REST APIs, authentication systems, WebSockets, Celery, microservices architecture, and backend scalability.
   
-- ⚡ Fun fact: I enjoy breaking complex backend systems into clean, scalable architectures.
+- ⚡ Fun fact: I break complex backend systems into clean architectures — and train in boxing to keep the same discipline outside code.
 
 - 📫 How to reach me: ...
  
