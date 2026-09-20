@@ -17,7 +17,7 @@
 
 ### About me
 
-I'm a self-taught backend-leaning developer with **1.8+ years** building production systems — not tutorials. I learn by shipping something real and fixing what breaks in front of actual users.
+I'm a self-taught backend-leaning developer with **2+ years** building production systems — not tutorials. I learn by shipping something real and fixing what breaks in front of actual users.
 
 - 🔭 **Currently building:** `XIMS`, an enterprise IMS platform with 100+ granular permissions across QMS, OHS and extended modules; `RentBiz`, a rental management platform on AWS; and a salon booking management system with FastAPI + React supporting 3 distinct user roles.
 - 🚀 **Side projects:** a small "copy-paste and deploy" app that ships straight to Vercel with one click, and a personal algorithmic trading platform.
