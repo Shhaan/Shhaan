@@ -54,11 +54,6 @@ I'm a self-taught backend-leaning developer with **1.8+ years** building product
 ### GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shhaan&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0B&title_color=F2F1EE&text_color=ABAAAF&icon_color=C7C6C1" />
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shhaan&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0B&title_color=F2F1EE&text_color=ABAAAF" />
-</p>
-
-<p align="left">
   <img src="https://streak-stats.demolab.com/?user=shhaan&theme=dark&hide_border=true&background=0A0A0B&stroke=232326&ring=C7C6C1&fire=C7C6C1&currStreakLabel=F2F1EE" />
 </p>
 
